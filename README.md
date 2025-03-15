@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ShieldAI
-ShieldAI es un proyecto que busca eficientizar y mejorar la experiencia del servicio al cliente en las llamadas de NEORIS.
+ShieldAI es un proyecto que busca eficientizar y mejorar la experiencia del servicio al cliente para los startups.
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
